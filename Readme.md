@@ -24,6 +24,10 @@ The solution we suggest includes a vending machine and a mobile application that
  https://youtu.be/OKralwlF3jc
 
  [![Watch the video](https://github.com/Infy-Innovators/Food-ATM/blob/master/QR_Code_APP.jpeg)](https://youtu.be/OKralwlF3jc)
+ 
+ ## The architecture
+
+![Architecture](architecture.jpeg)
 
 ## Long description
 
@@ -33,9 +37,6 @@ We are constantly listening in the news that people are facing difficulty in arr
 We just thought of making something to solve this issue and we started adding people, debating, brain storming then we came up with this solution. 
 
 ## Project roadmap
-### Architecture
-
-![Architecture](architecture.jpeg)
 
 ### How it works ?
 
