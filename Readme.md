@@ -21,7 +21,7 @@ The problem stated above is a genuine one where we have seen many reports in the
 The solution we suggest includes a vending machine and a mobile application that would help us identify the individual and the benefits he is eligible for and then we can send an instruction to the vending machine to vend that much quantity of food grains. This way we can have a digital database to track the individuals who had benefitted directly and also we can remove the middle man benefitting by hoarding of grains and providing wrong measurements of food grains. 
  
  ## Demo Video
- [![Watch the video](qr_Code_App.jpeg)](https://youtu.be/OKralwlF3jc)
+ [![Watch the video](https://github.com/Infy-Innovators/Food-ATM/blob/master/QR_Code_APP.jpeg)](https://youtu.be/OKralwlF3jc)
 
 ## Long description
 
