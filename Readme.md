@@ -36,6 +36,10 @@ We just thought of making something to solve this issue and we started adding pe
 ### Architecture
 
 ![Architecture](architecture.jpeg)
+
+### How it works ?
+
+![MachineFlow](machineflow.png)
  
 ## Getting started
 
