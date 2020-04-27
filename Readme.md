@@ -42,6 +42,9 @@ We just thought of making something to solve this issue and we started adding pe
 ### Android app code
 https://github.com/Infy-Innovators/food-atm-android
 
+### Device QR Code
+
+![QR Code](qrcode(1).png)
 
 ### API Code
 
