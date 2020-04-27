@@ -22,7 +22,7 @@ The solution we suggest includes a vending machine and a mobile application that
  
  ## Demo Video
  https://youtu.be/OKralwlF3jc
- click below image to see video:-
+
  [![Watch the video](https://github.com/Infy-Innovators/Food-ATM/blob/master/QR_Code_APP.jpeg)](https://youtu.be/OKralwlF3jc)
 
 ## Long description
@@ -46,4 +46,6 @@ https://github.com/Infy-Innovators/food-atm-android
 ### API Code
 
 https://github.com/Infy-Innovators/foot_atm_api
+
+https://github.com/Infy-Innovators/food_atm_api/blob/develop/app/Controllers/Api.php
 
