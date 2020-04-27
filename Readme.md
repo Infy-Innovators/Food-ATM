@@ -7,7 +7,6 @@
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
-1. [Acknowledgments](#acknowledgments)
 
 ## Short description
 
@@ -31,4 +30,18 @@ The team is proposing a Contactless Staple Food Vending machine which would prov
 We are constantly listening in the news that people are facing difficulty in arranging food for them, especially in India where people are walking miles to reach their hometown. So we identified this and  IBM also have given us a chance to explore our skills and find a solution for this problem. 
 We just thought of making something to solve this issue and we started adding people, debating, brain storming then we came up with this solution. 
 
+## Project roadmap
+### Architecture
+
+![Architecture](architecture.jpeg)
+ 
+## Getting started
+
+### Android app code
+https://github.com/Infy-Innovators/food-atm-android
+
+
+### API Code
+
+https://github.com/Infy-Innovators/foot_atm_api
 
