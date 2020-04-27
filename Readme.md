@@ -39,7 +39,7 @@ We just thought of making something to solve this issue and we started adding pe
 
 ### How it works ?
 
-![MachineFlow](machineflow.png)
+![MachineFlow](machineFlow.png)
  
 ## Getting started
 
