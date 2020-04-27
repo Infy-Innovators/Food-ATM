@@ -22,5 +22,13 @@ The problem stated above is a genuine one where we have seen many reports in the
 The solution we suggest includes a vending machine and a mobile application that would help us identify the individual and the benefits he is eligible for and then we can send an instruction to the vending machine to vend that much quantity of food grains. This way we can have a digital database to track the individuals who had benefitted directly and also we can remove the middle man benefitting by hoarding of grains and providing wrong measurements of food grains. 
  
  ## Demo Video
+ (VID-20200427-WA0031.mp4)
+
+## Long description
+
+The team is proposing a Contactless Staple Food Vending machine which would provide people the basic essential commodities like Rice, Dal, Sugar ,etc. in a contactless manner. This is an idea where we are extending the Indian Government scheme of providing the peoples with the basic commodities mentioned where they do not need to come in direct contact with any other person or the machine. The peoples who have a smartphone will be able to use a mobile application to scan the QR code on the machine will be sent to the server and from the server we would be able to identify the allotted quantities to the specified individuals which can be vended out of the machine. This application will also have a donation feature for people who wants to donate these food items across the country, they could simply do so by using this application. This application will ensure the donation to reach the right people who are in need. 
+
+We are constantly listening in the news that people are facing difficulty in arranging food for them, especially in India where people are walking miles to reach their hometown. So we identified this and  IBM also have given us a chance to explore our skills and find a solution for this problem. 
+We just thought of making something to solve this issue and we started adding people, debating, brain storming then we came up with this solution. 
 
 
