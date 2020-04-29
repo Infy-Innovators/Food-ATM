@@ -57,3 +57,7 @@ https://github.com/Infy-Innovators/foot_atm_api
 
 https://github.com/Infy-Innovators/food_atm_api/blob/develop/app/Controllers/Api.php
 
+### IoT Device - Node MCU code
+
+https://github.com/Infy-Innovators/Food-ATM-IoT-Device
+
